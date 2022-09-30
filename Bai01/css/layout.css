@@ -1,0 +1,71 @@
+.navbar a {
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.navbar a:hover {
+    background-color: #F7F7F7;
+}
+
+.textstyle {
+    text-align: justify;
+}
+
+.slidebar {
+    background-image: url(/Bai01/images/sv.jpg);
+    height: 350px;
+    width: 100%;
+    color: white;
+}
+
+.slidebar h1 {
+    font-size: 35px;
+    padding-top: 100px;
+}
+
+.news_h1 {
+    margin: 40px 20px;
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+
+.news_h4 {
+    font-size: 20px;
+    text-align: justify;
+    text-decoration: none;
+}
+
+.imgstyle {
+    width: 95%;
+}
+
+.xemthem {
+    text-align: right;
+    padding-bottom: 20px;
+}
+
+.xemthem a {
+    color: red;
+}
+
+.xemthem a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+.input_box input {
+    height: 40px;
+    width: 100%;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding-left: 35px;
+    font-size: 17px;
+}
+
+.input_box .icon {
+    position: absolute;
+    margin-top: -30px;
+    left: 30px;
+    color: grey;
+}
